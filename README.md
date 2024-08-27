@@ -29,4 +29,18 @@ In this scenario, I was provided with a dataset containing detailed information 
   - List items whose quantity is zero and how long (in minutes) they have been in this state.
 
 By addressing these points, the marketing team can gain valuable insights into inventory trends and make informed decisions to optimize their promotional strategies. This will help ensure that high-demand items are adequately stocked and promoted, while also identifying opportunities to clear out items that are not moving.
+### Visualizations
+Here are some key visualizations to support our analysis:
+
+!Distribution of Item Prices
+*Figure 1: Distribution of Item Prices*
+
+!Number of Items per Department
+*Figure 2: Number of Items per Department*
+
+!Pair Plot
+*Figure 3: Pair Plot*
+
+!Top Items
+*Figure 4: Top Items*
 
