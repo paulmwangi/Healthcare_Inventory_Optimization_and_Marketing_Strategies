@@ -32,16 +32,15 @@ By addressing these points, the marketing team can gain valuable insights into i
 ### Visualizations
 Here are some key visualizations to support our analysis:
 
-<img src="images/ditrib_item_prices.png" alt="Alt text" width="300">
-
+<img src="images/ditrib_item_prices.png" alt="Alt text" width="700">
 *Figure 1: Distribution of Item Prices*
 
-!Number of Items per Department
+<img src="images/no._items_depart.png" alt="Alt text" width="300">
 *Figure 2: Number of Items per Department*
 
-!Pair Plot
+<img src="images/pair_plot.png" alt="Alt text" width="300">
 *Figure 3: Pair Plot*
 
-!Top Items
+<img src="images/top_items.png" alt="Alt text" width="300">
 *Figure 4: Top Items*
 
