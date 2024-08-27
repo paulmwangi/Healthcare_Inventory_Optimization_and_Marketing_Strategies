@@ -32,7 +32,7 @@ By addressing these points, the marketing team can gain valuable insights into i
 ### Visualizations
 Here are some key visualizations to support our analysis:
 
-!Distribution of Item Prices
+!ditrib_item_prices
 *Figure 1: Distribution of Item Prices*
 
 !Number of Items per Department
